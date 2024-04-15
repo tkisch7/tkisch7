@@ -1,4 +1,4 @@
-<h1>Welcome, I am Thomas!<br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Welcome, I am Thomas!<br/><a href="https://www.linkedin.com/in/thomaskischjr/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
