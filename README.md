@@ -2,7 +2,7 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b>Advanced Hunting APTs with Splunk)</b>
+- <b>Advanced Hunting APTs with Splunk</b>
   - [Boss of The SOC V2](https://github.com/tkisch7/Splunk_BOTS2)
 
 <h2>Connect with me:</h2>
