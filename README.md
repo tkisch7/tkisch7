@@ -4,7 +4,7 @@
 
 - <b>Log Analysis and Monitoring</b>
   - [Advanced Hunting APTs with Splunk](https://github.com/tkisch7/Splunk_BOTS2)
-  - [Creating Report and Dashboards with Splunk](https://github.com/tkisch7/Splunk_Reporting)
+  - [Creating Reports and Dashboards with Splunk](https://github.com/tkisch7/Splunk_Reporting)
 
 <h2>Connect with me:</h2>
 
