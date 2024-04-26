@@ -4,6 +4,7 @@
 
 - <b>Log Analysis and Monitoring</b>
   - [Advanced Hunting APTs with Splunk](https://github.com/tkisch7/Splunk_BOTS2)
+  - [Data Manipulation with Splunk](https://github.com/tkisch7/Splunk_Data_Manipulation)
   - [Creating Reports and Dashboards with Splunk](https://github.com/tkisch7/Splunk_Reporting)
   - [ELK in the Cloud](https://github.com/tkisch7/Elk_Cloud)
 
