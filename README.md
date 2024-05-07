@@ -2,7 +2,7 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b>Log Analysis and Monitoring</b>
+- <b>Securtity Infomation and Event Management</b>
   - [Advanced Hunting APTs with Splunk](https://github.com/tkisch7/Splunk_BOTS2)
   - [Data Manipulation with Splunk](https://github.com/tkisch7/Splunk_Data_Manipulation)
   - [Creating Reports and Dashboards with Splunk](https://github.com/tkisch7/Splunk_Reporting)
