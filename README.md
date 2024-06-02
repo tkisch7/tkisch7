@@ -7,6 +7,10 @@
   - [Data Manipulation with Splunk](https://github.com/tkisch7/Splunk_Data_Manipulation)
   - [Creating Reports and Dashboards with Splunk](https://github.com/tkisch7/Splunk_Reporting)
   - [ELK in the Cloud](https://github.com/tkisch7/Elk_Cloud)
+ 
+- <b>Forensics and Incident Response</b>
+  - [Linux Forensics](https://github.com/tkisch7/Linux-Forensics)
+
 
 <h2>Connect with me:</h2>
 
